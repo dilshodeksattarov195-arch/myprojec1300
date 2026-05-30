@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycrocess",
+        "uuid": 2780700,
+        "checksum": "lcmg7o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
